@@ -1,1 +1,1 @@
-# converter-JPG-PNG-to-PDF
+### converter JPG or PNG to PDF
